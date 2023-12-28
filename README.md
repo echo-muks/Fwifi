@@ -1,11 +1,11 @@
 
 
 
-Coded in shall script by Echo mUks 
+Coded in shell script by Echo mUks 
 
 
 
-# Fwifi is shall script that makes Most of the commands related to the network are shortened to you with just one click
+# Fwifi is shell script that makes Most of the commands related to the network are shortened to you with just one click
 ## Working environment: Linux distro ##
 # installation :
   just clone the script with git clone, 
